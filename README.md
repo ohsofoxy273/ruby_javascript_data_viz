@@ -513,7 +513,7 @@ First add a link:
 
     <a href="#">Chart</a>
 
-Now we ned to give it an attribute so that jquery can find this one specific link, if we chose an ID we can only have one link that closes the charts on the page, since id's should be unique. Instead let's use a class:
+Now we need to give it an attribute so that jquery can find this one specific link, if we chose an ID we can only have one link that closes the charts on the page, since id's should be unique. Instead let's use a class:
 
     <a href="#" class='closeChart'>Chart</a>
 
